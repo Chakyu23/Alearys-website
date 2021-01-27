@@ -1,0 +1,39 @@
+h1
+{
+
+}
+
+body
+{
+	background-color: black 
+}
+
+#mainpage
+{
+	width: 1600px ;
+	margin: 0 auto ;
+	background-color: white ;
+	text-align: center ;
+	align-content: center ;
+}
+
+#FicheHead
+{
+	width: 800px ;
+	margin: 0 auto ;
+	background-color: white ;
+	text-align: left ; 
+}
+
+#FicheBody
+{
+	width: 800px ;
+	margin: 0 auto ;
+	background-color: white ;
+	text-align: left ; 
+}
+
+img
+{
+	width: 1500px 
+}
